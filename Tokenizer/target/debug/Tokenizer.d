@@ -1,0 +1,1 @@
+C:\Users\Lettuce\Documents\CISC3160\tokenizer\Tokenizer\Tokenizer\target\debug\Tokenizer.exe: C:\Users\Lettuce\Documents\CISC3160\tokenizer\Tokenizer\Tokenizer\src\exp_parser.rs C:\Users\Lettuce\Documents\CISC3160\tokenizer\Tokenizer\Tokenizer\src\main.rs
